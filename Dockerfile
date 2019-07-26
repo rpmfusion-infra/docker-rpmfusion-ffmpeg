@@ -1,4 +1,4 @@
-FROM registry.fedoraproject.org/fedora:latest
+FROM registry.fedoraproject.org/fedora:rawhide
 
 MAINTAINER kwizart@gmail.com
 
