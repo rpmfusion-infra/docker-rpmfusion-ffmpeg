@@ -9,6 +9,7 @@ RUN dnf install -qy \
   fdkaac \
   ffmpeg \
   intel-media-driver \
+  libva-intel-hybrid-driver \
   libva-intel-driver \
   libva-utils \
   mesa-vdpau-drivers \
