@@ -12,7 +12,8 @@ RUN dnf install -qy \
   libva-intel-hybrid-driver \
   libva-intel-driver \
   libva-utils \
-  mesa-vdpau-drivers \
+  mesa-va-drivers-freeworld \
+  mesa-vdpau-drivers-freeworld \
   vdpauinfo \
   x264 \
   x265 \
